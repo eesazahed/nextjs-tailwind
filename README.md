@@ -1,0 +1,3 @@
+# nextjs-tailwind
+
+A boilerplate
