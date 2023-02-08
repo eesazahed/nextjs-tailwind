@@ -2,7 +2,6 @@
 
 # dependencies
 /node_modules
-/.github
 /.pnp
 .pnp.js
 
@@ -16,6 +15,7 @@
 /build
 
 # misc
+/.github/
 .DS_Store
 *.pem
 
